@@ -66,7 +66,7 @@ Metrics used:
 - ROC-AUC Curve
 
 ---
-
+## google colab link {https://colab.research.google.com/drive/1k1B6fCLiP5IBhGK992xpdJ3NEfA-6Ku5?usp=sharing}
 ## ▶️ How to Run
 
 1. Clone the repository:
